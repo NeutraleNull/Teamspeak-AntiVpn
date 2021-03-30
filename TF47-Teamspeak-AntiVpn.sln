@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF47-Teamspeak-AntiVpn", "TF47-Teamspeak-AntiVpn.csproj", "{31BE7CB8-A42D-46D1-B28C-07B834B4A520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31BE7CB8-A42D-46D1-B28C-07B834B4A520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31BE7CB8-A42D-46D1-B28C-07B834B4A520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31BE7CB8-A42D-46D1-B28C-07B834B4A520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31BE7CB8-A42D-46D1-B28C-07B834B4A520}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46936E65-0949-4F31-A686-9622050D0DFF}
+	EndGlobalSection
+EndGlobal
