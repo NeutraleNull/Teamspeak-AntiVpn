@@ -37,5 +37,5 @@ You can also update the list while the program is running. It will update its in
 
 
 
-[^Made by Dragon with ❤️]: 
+Made by Dragon with ❤️
 
